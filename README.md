@@ -16,7 +16,7 @@ My other notes: <https://github.com/hchiam/web-accessibility-course-notes>
 
 ## To practice/research later
 
-Example: <https://github.com/hchiam/learning-extra-a11y-stuff/blob/master/src/index.html> (`yarn; yarn start;`).
+Example: <https://github.com/hchiam/learning-extra-a11y-stuff/blob/master/src/index.html> (`yarn; yarn start;`). Or live demo: <https://hchiam-a11y-test.surge.sh/>
 
 - Perceivable
   - -> web video add text: <https://www.w3schools.com/tags/tag_track.asp>

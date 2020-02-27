@@ -1,5 +1,5 @@
 folderToUse=src
-surgePageToPublishTo=https://hchiam-test.surge.sh
+surgePageToPublishTo=https://hchiam-a11y-test.surge.sh
 
 function installSurgeIfMissing() {
   if ! [ -x "$(command -v surge)" ]; then
