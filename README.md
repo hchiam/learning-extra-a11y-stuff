@@ -27,7 +27,7 @@ My other notes: <https://github.com/hchiam/web-accessibility-course-notes>
 
 Write down: Don't just sketch! Sketch _semantic_ blocks! At the start!
 
-Try out a11y-friendly drag and drop.
+Try out [a11y-friendly drag and drop](https://www.smashingmagazine.com/2018/01/dragon-drop-accessible-list-reordering/): use [Dragon Drop](https://schne324.github.io/dragon-drop/demo/) with `yarn add drag-on-drop` or `https://unpkg.com/drag-on-drop`.
 
 ---
 
