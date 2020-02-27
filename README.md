@@ -7,8 +7,8 @@ Based off of a [Zeitspace A11y Workshop](https://github.com/zeitspace/web-access
 These are just select notes for my own idiosyncrasies/situation.
 
 Ontario: AODA: company > 50:
-  -> 2014: must have WCAG 2.0 Level A
-  -> 2021: must have WCAG 2.0 Level AA
+  - -> 2014: must have WCAG 2.0 Level A
+  - -> 2021: must have WCAG 2.0 Level AA
 
 WCAG **_"quick ref"_**: <https://www.w3.org/WAI/WCAG21/quickref>
 
@@ -16,14 +16,14 @@ My other notes: <https://github.com/hchiam/web-accessibility-course-notes>
 
 ## To practice/research later
 
-Perceivable
-  -> web video add text: <https://www.w3schools.com/tags/tag_track.asp>
-Operable
-  -> skip links
-Understandable
-  -> "Read more" link with screenreader-only audible extra "Read more about (...)"
-Robust
-  -> research lighthouse compatibility IE checks
+- Perceivable
+  - -> web video add text: <https://www.w3schools.com/tags/tag_track.asp>
+- Operable
+  - -> skip links
+- Understandable
+  - -> "Read more" link with screenreader-only audible extra "Read more about (...)"
+- Robust
+  - -> research lighthouse compatibility IE checks
 
 Write down: Don't just sketch! Sketch _semantic_ blocks! At the start!
 
