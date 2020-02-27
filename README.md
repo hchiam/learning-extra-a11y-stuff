@@ -23,7 +23,7 @@ My other notes: <https://github.com/hchiam/web-accessibility-course-notes>
 - Understandable
   - -> "Read more" link with screenreader-only audible extra "Read more about (...)"
 - Robust
-  - -> research lighthouse compatibility IE checks
+  - -> research lighthouse compatibility IE checks (I don't think so. Just use an actual IE browser. If you're for some reason really stuck with a Mac, try [IE Tab](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd?hl=en-US) to simulate IE in Chrome, but requires extra installation and sign-up.)
 
 Write down: Don't just sketch! Sketch _semantic_ blocks! At the start!
 
