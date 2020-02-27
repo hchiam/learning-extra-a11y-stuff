@@ -1,0 +1,24 @@
+WEBVTT
+
+00:00.000 --> 00:02.000
+Test subtitles: 1
+
+00:02.000 --> 00:05.000
+Test subtitles: 2
+
+00:03.000 --> 00:05.000
+Test subtitles: 3 (in parallel with 2)
+
+00:05.000 --> 00:07.000
+Test subtitles: 4 (a)
+Test subtitles: 4 (b)
+Test subtitles: 4 (c)
+
+00:07.000 --> 00:09.000 align:start
+Test subtitles: align:start
+
+00:07.000 --> 00:09.000 align:middle
+Test subtitles: align:middle
+
+00:07.000 --> 00:09.000 align:end
+Test subtitles: align:end
