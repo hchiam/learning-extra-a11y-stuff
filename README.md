@@ -12,6 +12,8 @@ Ontario: AODA: company > 50:
 
 WCAG **_"quick ref"_**: <https://www.w3.org/WAI/WCAG21/quickref>
 
+My other notes: <https://github.com/hchiam/web-accessibility-course-notes>
+
 ## To practice/research later
 
 Perceivable
